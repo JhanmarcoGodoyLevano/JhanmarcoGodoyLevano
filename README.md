@@ -33,7 +33,7 @@
 <br>
 
 <li>
-  <a href="[https://twitter.com/X](https://twitter.com/JhanmarcoL52437)" target="_blank">
+  <a href="https://twitter.com/JhanmarcoL52437" target="_blank">
     <img src="https://img.shields.io/badge/twitter: JhanmarcoGodoy-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;"/>
   </a>
 </li>
@@ -43,7 +43,7 @@
 <br>
 
 <li>
-<a href="jhanmarco.godoy@vallegrande.edu.pe" target="_blank">
+<a href="mailto:jhanmarco.godoy@vallegrande.edu.pe" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  JhanmarcoGodoy-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
